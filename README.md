@@ -25,9 +25,9 @@ The hypothesis test part was about Do you stop as soon as one page is considered
 
 
 ## Getting Started
-$ git clone https://github.com/Muhammed-Adel95/Run-A-B-test-for-an-e-commerce-website.git
-1- Raw Data is being kept [here](https://github.com/Muhammed-Adel95/Run-A-B-test-for-an-e-commerce-website/blob/35da20e296f9ff76a68053f4fb1c29be9ba49514/ab_data.csv)
+1- [Project]( https://github.com/Muhammed-Adel95/Run-A-B-test-for-an-e-commerce-website.git)
+2- Raw Data is being kept [here](https://github.com/Muhammed-Adel95/Run-A-B-test-for-an-e-commerce-website/blob/35da20e296f9ff76a68053f4fb1c29be9ba49514/ab_data.csv)
     [here](https://github.com/Muhammed-Adel95/Run-A-B-test-for-an-e-commerce-website/blob/35da20e296f9ff76a68053f4fb1c29be9ba49514/countries.csv)
-2-Data processing/transformation scripts are being kept [here](https://github.com/Muhammed-Adel95/Run-A-B-test-for-an-e-commerce-website/blob/35da20e296f9ff76a68053f4fb1c29be9ba49514/Analyze_ab_test_results_notebook.html)
+3-Data processing/transformation scripts are being kept [here](https://github.com/Muhammed-Adel95/Run-A-B-test-for-an-e-commerce-website/blob/35da20e296f9ff76a68053f4fb1c29be9ba49514/Analyze_ab_test_results_notebook.html)
 ## Featured Notebooks
 * [Notebook](https://github.com/Muhammed-Adel95/Run-A-B-test-for-an-e-commerce-website/blob/35da20e296f9ff76a68053f4fb1c29be9ba49514/Analyze_ab_test_results_notebook.ipynb)
